@@ -49,10 +49,16 @@ cd Hiit
 
 Run locally by opening index.html in your browser.
 
-🔒 Privacy
-This project is 100% local.
-No servers. No analytics. No data collection.
-Your workout data stays on your device.
+🔒 Security & Privacy
+The HIIT Engine stores all data locally on your device.
+No accounts, no cloud sync, no tracking, no analytics, no external servers.
+- Your intervals
+- Your presets
+- Your workout history
+- Your preferences
+…never leave your device.
+This app is designed for maximum privacy and zero data collection.
+
 
 📜 License
 MIT License — free to use, modify, and build on.
